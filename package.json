@@ -1,0 +1,11 @@
+{
+  "name": "primeride-vehicle-rental-service",
+  "version": "1.0.0",
+  "description": "3y2s ITMP proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thilina NoveltyPart",
+  "license": "ISC"
+}
