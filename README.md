@@ -40,9 +40,5 @@
 ---
 
 ## 📦 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/primeride-vehicle-rental-service.git
-cd primeride-vehicle-rental-service
+## run AI_Model
+uvicorn app:app --reload --port 8000
